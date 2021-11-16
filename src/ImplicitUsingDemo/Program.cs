@@ -28,4 +28,3 @@ var otherAnonymous = anonymous with { LastName = "Trillian" };
 Console.WriteLine($"Other anonymus created by with expression produces\n {otherAnonymous}");
 
 Console.ReadLine();
-

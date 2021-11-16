@@ -7,13 +7,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{40480213-E98
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5F743201-7B16-4418-9A36-100B25D5DEBD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "config", "config", "{72223BC2-2073-4613-B6C5-04D788B7A8DB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsDemo", "src\RecordsDemo\RecordsDemo.csproj", "{EBB16068-D642-4FC4-8AD1-16920FAA9BF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsDemo.Test", "test\RecordsDemo.Test\RecordsDemo.Test.csproj", "{ACA29303-5D67-4229-8CE9-3DCCC8983D28}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitUsingDemo", "src\ImplicitUsingDemo\ImplicitUsingDemo.csproj", "{AD0F1E51-CB16-4F4E-BE94-60E14C06AED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B00C60D1-90AD-4761-948C-EFA97D60A9FA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
